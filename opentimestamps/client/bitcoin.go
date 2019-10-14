@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/BlockchainSource/go-opentimestamps/opentimestamps"
-	"github.com/btcsuite/btcrpcclient"
+	"github.com/blockchainsource/go-opentimestamps/opentimestamps"
+	btcrpcclient "github.com/btcsuite/btcd/rpcclient"
 )
 
 // A BitcoinAttestationVerifier uses a bitcoin RPC connection to verify bitcoin

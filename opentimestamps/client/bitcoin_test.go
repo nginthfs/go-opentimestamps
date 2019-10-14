@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/BlockchainSource/go-opentimestamps/opentimestamps"
-	"github.com/btcsuite/btcrpcclient"
+	"github.com/blockchainsource/go-opentimestamps/opentimestamps"
+	btcrpcclient "github.com/btcsuite/btcd/rpcclient"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

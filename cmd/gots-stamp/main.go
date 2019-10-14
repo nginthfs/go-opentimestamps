@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/BlockchainSource/go-opentimestamps/opentimestamps"
+	"github.com/blockchainsource/go-opentimestamps/opentimestamps"
 )
 
 const defaultCalendar = "https://alice.btc.calendar.opentimestamps.org"

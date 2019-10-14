@@ -9,7 +9,7 @@ import (
 	"net/http/httputil"
 	"strings"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 const userAgent = "go-opentimestamps"
