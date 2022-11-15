@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/blockchainsource/go-opentimestamps/opentimestamps"
+	"github.com/nginthfs/go-opentimestamps/opentimestamps"
 	btcrpcclient "github.com/btcsuite/btcd/rpcclient"
 )
 
