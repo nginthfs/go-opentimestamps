@@ -1,4 +1,4 @@
-module github.com/blockchainsource/go-opentimestamps
+module github.com/nginthfs/go-opentimestamps
 
 go 1.12
 
