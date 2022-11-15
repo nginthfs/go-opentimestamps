@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/blockchainsource/go-opentimestamps/opentimestamps"
+	"github.com/nginthfs/go-opentimestamps/opentimestamps"
 )
 
 func main() {
